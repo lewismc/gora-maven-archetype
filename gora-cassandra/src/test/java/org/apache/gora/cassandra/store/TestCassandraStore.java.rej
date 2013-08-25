@@ -1,0 +1,12 @@
+--- gora-cassandra/src/test/java/org/apache/gora/cassandra/store/TestCassandraStore.java	(revision 1493580)
++++ gora-cassandra/src/test/java/org/apache/gora/cassandra/store/TestCassandraStore.java	(working copy)
+@@ -33,9 +33,7 @@
+ import org.apache.gora.store.DataStoreFactory;
+ import org.apache.gora.store.DataStoreTestBase;
+ import org.apache.hadoop.conf.Configuration;
+-import org.junit.After;
+ import org.junit.Before;
+-import org.junit.Test;
+ 
+ /**
+  * Test for CassandraStore.
