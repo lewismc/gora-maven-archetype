@@ -17,7 +17,7 @@ limitations under the License.
 -->
 <archetype-descriptior name="basic"/>
 
-      <fileSets>
+  <fileSets>
     <fileSet filtered="true" packaged="true">
       <directory>src/main/java</directory>
       <includes>
